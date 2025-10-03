@@ -1,6 +1,4 @@
 @ Empirical Program Code Descriptions for “Functional Regression with Persistent Nonstationarity and Error Contamination”
-                                                                                                                                                   September 2025
-                                                                                                                                                      Kyungsik Nam
 
 1. Main Analysis
 The primary empirical analysis is implemented in the file Main_FCRGT_Code.m, which reproduces the results presented in Section 5 (Figures 1–4) of the paper.
@@ -14,11 +12,3 @@ To replicate the VR test reported in Table 1, use the R script FCRGT_Nonstat_Tes
 
 4. Code for simulation stidy
 To replicate the simulation results in the Supplementary Material, use FRNE_HS_upload.r (accuracy of the estimaotrs) and FRNE_CI_upload.r (coverage probability). 
-
-5. Contact Information
-For questions regarding the program code or data, please contact:
-
-Kyungsik Nam
-Division of Climate Change
-Hankuk University of Foreign Studies
-ksnam@hufs.ac.kr
